@@ -1,6 +1,2 @@
 Luboš
-<<<<<<< HEAD
 Nazarii
-=======
-Martin R.
->>>>>>> 005d887b000cd10ebddc652f39db7908f9bdbb15
